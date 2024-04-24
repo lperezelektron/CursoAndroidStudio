@@ -33,7 +33,7 @@
     <style name="TodoSubtitle">
         <item name="textAllCaps">true</item>
         <item name="android:textColor">@color/subtitle_text</item>
-        <item name="android:layout_marginHorizontal">32dp</item>
+        <item name="android:layout_marginHorizontal" tools:targetApi="o">32dp</item>
     </style>
 
 </resources>
