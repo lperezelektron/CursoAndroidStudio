@@ -13,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_vertical"
+        android:layout_margin="8dp"
         android:orientation="vertical">
 
         <TextView
@@ -26,6 +27,7 @@
 
         <View
             android:id="@+id/divider"
+            android:layout_marginTop="3dp"
             android:layout_width="match_parent"
             android:layout_height="2dp"
             android:background="@color/white" />
