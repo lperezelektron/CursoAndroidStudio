@@ -26,4 +26,6 @@
     <string name="others">Otros</string>
     <string name="personal">Personal</string>
     <string name="tasks">Tareas</string>
+    <string name="addTask">Añade la tarea</string>
+    <string name="insertTask">Agregar Tarea</string>
 </resources>
