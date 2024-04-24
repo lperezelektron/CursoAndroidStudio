@@ -29,4 +29,11 @@
     </style>
 
     <style name="Theme.AndroidExercises" parent="Theme.MaterialComponents.Light.DarkActionBar" />
+
+    <style name="TodoSubtitle">
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/subtitle_text</item>
+        <item name="android:layout_marginHorizontal">32dp</item>
+    </style>
+
 </resources>
