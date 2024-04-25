@@ -5,35 +5,36 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:layout_margin="16dp"
+    android:orientation="vertical"
     tools:context=".MenuActivity">
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnSaludarApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/saludarapp"
+        android:layout_marginTop="32dp"
         android:background="@color/material_dynamic_primary70"
-        android:textColor="@color/white"/>
+        android:text="@string/saludarapp"
+        android:textColor="@color/white" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnIMCApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/imc_calculator"
         android:layout_marginTop="5dp"
         android:background="@color/material_dynamic_primary70"
-        android:textColor="@color/white"/>
+        android:text="@string/imc_calculator"
+        android:textColor="@color/white" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnToDo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/to_do_app"
         android:layout_marginTop="5dp"
         android:background="@color/material_dynamic_primary70"
-        android:textColor="@color/white"/>
+        android:text="@string/to_do_app"
+        android:textColor="@color/white" />
 
 
 </LinearLayout>
