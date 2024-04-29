@@ -28,4 +28,11 @@
     <string name="tasks">Tareas</string>
     <string name="addTask">Añade la tarea</string>
     <string name="insertTask">Agregar Tarea</string>
+    <string name="heroes_app">Heroes App</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="strength">Strength</string>
+    <string name="speed">Speed</string>
+    <string name="durability">Durability</string>
+    <string name="power">Power</string>
+    <string name="combat">Combat</string>
 </resources>

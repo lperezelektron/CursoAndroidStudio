@@ -13,7 +13,7 @@
         android:id="@+id/btnSaludarApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="40dp"
         android:background="@color/material_dynamic_primary70"
         android:text="@string/saludarapp"
         android:textColor="@color/white" />
@@ -34,6 +34,15 @@
         android:layout_marginTop="5dp"
         android:background="@color/material_dynamic_primary70"
         android:text="@string/to_do_app"
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnHeroes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/material_dynamic_primary70"
+        android:text="@string/heroes_app"
         android:textColor="@color/white" />
 
 
